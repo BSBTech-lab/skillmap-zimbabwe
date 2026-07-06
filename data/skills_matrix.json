@@ -1,0 +1,18 @@
+{
+    "sector_name": "ICT",
+    "regional_breakdown": [
+        {
+            "province": "Zimbabwe (National)",
+            "deficit_skills": [
+                "AWS",
+                "Kubernetes",
+                "Zero Trust Architecture",
+                "PLC Programming",
+                "Telemetry",
+                "SCADA"
+            ],
+            "surplus_skills": [],
+            "visibility_score": 0.15
+        }
+    ]
+}
