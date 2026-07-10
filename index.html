@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
     <title>SkillMap Zimbabwe - Dashboard</title>
-    <style>
-        
-    </style>
 </head>
 <body>
     <div class="dashboard">
@@ -15,7 +12,7 @@
         <!-- NAV BAR -->
         <nav class="navbar">
             <div class="logo">
-                <img src="logo-icon.png" alt="SkillMap Zimbabwe data experience dashboard logo" class="logo-icon" />
+                <div class="logo-icon" style="background: #CAA84F; display: flex; align-items: center; justify-content: center; font-size: 28px; font-weight: 700; color: #123F42; width: 70px; height: 70px; border-radius: 12px;">SM</div>
                 <div class="logo-text">SkillMap <span>ZW</span></div>
             </div>
             <input class="nav-search" placeholder="🔍 Search skills, sectors, regions..." />
@@ -29,124 +26,92 @@
         <div class="kpi-row">
             <div class="kpi-card">
                 <div class="kpi-label">Total Skills Mapped</div>
-                <span class="kpi-number">124</span>
-                <span class="kpi-change">↑ 12% from last year</span>
+                <span class="kpi-number" id="kpi1">--</span>
+                <span class="kpi-change">↑ Loading...</span>
             </div>
             <div class="kpi-card">
                 <div class="kpi-label">Sectors Covered</div>
-                <span class="kpi-number">45</span>
-                <span class="kpi-change">↑ 8 new sectors</span>
+                <span class="kpi-number" id="kpi2">--</span>
+                <span class="kpi-change">↑ Loading...</span>
             </div>
             <div class="kpi-card">
                 <div class="kpi-label">Overall Skills Gap</div>
-                <span class="kpi-number">32%</span>
-                <span class="kpi-change down">↓ 3% improvement</span>
+                <span class="kpi-number" id="kpi3">--</span>
+                <span class="kpi-change down">↓ Loading...</span>
             </div>
             <div class="kpi-card">
                 <div class="kpi-label">Training Ready</div>
-                <span class="kpi-number">89</span>
-                <span class="kpi-change">↑ 15 ready to deploy</span>
+                <span class="kpi-number" id="kpi4">--</span>
+                <span class="kpi-change">↑ Loading...</span>
             </div>
         </div>
 
-        <!-- MAIN GRID: Chart + Filters -->
+        <!-- MAIN GRID -->
         <div class="main-grid">
-                <div class="chart-card">
-                    <div class="chart-title">📊 Skills Supply vs Demand by Sector</div>
-                    
-                    <div class="chart-container" style="position: relative; height: 300px; width: 100%;">
-                        <canvas id="supplyDemandChart"></canvas>
-                    </div>
-
-                    <div style="display:flex; gap:20px; margin-top:14px; font-size:12px; color:#4A4A4A; justify-content:center;">
-                        <span>■ <span style="color:#16666A; font-weight:600;">Demand</span></span>
-                        <span>■ <span style="color:#CAA84F; font-weight:600;">Supply</span></span>
-                        <span style="margin-left:auto; opacity:0.6;">Data source: POTRAZ 2026</span>
-                    </div>
+            <div class="chart-card">
+                <div class="chart-title">📊 Skills Supply vs Demand by Sector</div>
+                <div class="chart-container" style="position: relative; height: 300px; width: 100%;">
+                    <canvas id="supplyDemandChart"></canvas>
                 </div>
+                <div style="display:flex; gap:20px; margin-top:14px; font-size:12px; color:#4A4A4A; justify-content:center; flex-wrap:wrap;">
+                    <span>■ <span style="color:#16666A; font-weight:600;">Demand</span></span>
+                    <span>■ <span style="color:#CAA84F; font-weight:600;">Supply</span></span>
+                    <span style="opacity:0.6;">Data source: ZIMCHE / POTRAZ 2026</span>
+                </div>
+            </div>
             
             <div class="filters-card">
                 <div class="filters-title">🔍 Filters</div>
                 <div class="filter-group">
                     <label class="filter-label">Region</label>
-                    <select class="filter-select">
-                        <option>All Regions</option>
-                        <option>Harare</option>
-                        <option>Bulawayo</option>
-                        <option>Matabeleland</option>
+                    <select class="filter-select" id="regionSelect">
+                        <option value="All Regions">All Regions</option>
+                        <!-- Populated from JSON -->
                     </select>
                 </div>
                 <div class="filter-group">
                     <label class="filter-label">Sector</label>
-                    <select class="filter-select">
-                        <option>All Sectors</option>
-                        <option>Agriculture</option>
-                        <option>Mining</option>
-                        <option>Technology</option>
+                    <select class="filter-select" id="sectorSelect">
+                        <option value="All Sectors">All Sectors</option>
+                        <!-- Populated from JSON -->
                     </select>
                 </div>
                 <div class="filter-group">
                     <label class="filter-label">Year</label>
-                    <select class="filter-select">
-                        <option>2026</option>
-                        <option>2025</option>
-                        <option>2024</option>
+                    <select class="filter-select" id="yearSelect">
+                        <option value="2026">2026</option>
+                        <option value="2025">2025</option>
+                        <option value="2024">2024</option>
                     </select>
                 </div>
                 <div class="filter-group">
                     <label class="filter-label">Skill Level</label>
-                    <select class="filter-select">
-                        <option>All Levels</option>
-                        <option>Entry</option>
-                        <option>Intermediate</option>
-                        <option>Expert</option>
+                    <select class="filter-select" id="levelSelect">
+                        <option value="All Levels">All Levels</option>
+                        <option value="Entry">Entry</option>
+                        <option value="Intermediate">Intermediate</option>
+                        <option value="Expert">Expert</option>
                     </select>
                 </div>
-                <button class="btn-apply">Apply Filters</button>
+                <button class="btn-apply" id="applyFilters">Apply Filters</button>
             </div>
         </div>
 
-        <!-- INSIGHTS -->
+        <!-- INSIGHTS (Dynamic) -->
         <div class="insights-row">
-            <div class="insight-card">
-                <div class="insight-text">💡 <strong>Harare</strong> has 45% more developers than <strong>Bulawayo</strong>, indicating a concentration of tech talent in the capital.</div>
-                <span class="insight-source">📌 Insight based on 2025 POTRAZ data</span>
-            </div>
-            <div class="insight-card gold">
-                <div class="insight-text">⚠️ <strong>Renewable energy</strong> skills gap is 28% in Matabeleland, representing the highest regional shortage.</div>
-                <span class="insight-source">📌 Urgent intervention needed</span>
-            </div>
+            <!-- Built dynamically from JSON -->
         </div>
 
-        <!-- ACTIONS -->
+        <!-- ACTIONS (Dynamic) -->
         <div class="actions-card">
-            <div class="actions-title">⚡ Recommended Actions</div>
-            <div class="action-item">
-                <div class="action-left">
-                    <span class="action-number">1</span>
-                    <span class="action-text">Increase renewable energy training in Bulawayo by 20%</span>
-                </div>
-                <button class="action-btn">View Plan</button>
-            </div>
-            <div class="action-item">
-                <div class="action-left">
-                    <span class="action-number">2</span>
-                    <span class="action-text">Upskill Harare developers in emerging technologies</span>
-                </div>
-                <button class="action-btn">View Plan</button>
-            </div>
-            <div class="action-item">
-                <div class="action-left">
-                    <span class="action-number">3</span>
-                    <span class="action-text">Launch renewable energy program in Matabeleland</span>
-                </div>
-                <button class="action-btn">View Plan</button>
-            </div>
+            <!-- Built dynamically from JSON -->
         </div>
 
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="js/dashboard.js"></script>
 
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Dashboard JS -->
+    <script src="js/dashboard.js"></script>
 </body>
 </html>
