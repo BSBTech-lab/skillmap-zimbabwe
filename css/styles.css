@@ -1,5 +1,5 @@
 
-/* SkillMap ZW Master Stylesheet */.
+/* SkillMap ZW Master Stylesheet */
 * {
             margin: 0;
             padding: 0;
@@ -406,47 +406,108 @@
             transform: scale(1.02);
         }
 
-        /* RESPONSIVE */
-        @media (max-width: 1024px) {
-            .kpi-row {
-                grid-template-columns: repeat(2, 1fr);
-            }
-            .main-grid {
-                grid-template-columns: 1fr;
-            }
-            .insights-row {
-                grid-template-columns: 1fr;
-            }
-            .navbar {
-                flex-wrap: wrap;
-                gap: 12px;
-            }
-            .nav-search {
-                width: 100%;
-                order: 3;
-            }
-        }
+       /* ============================================
+   RESPONSIVE BREAKPOINTS
+   ============================================ */
 
-        @media (max-width: 600px) {
-            .kpi-row {
-                grid-template-columns: 1fr;
-            }
-            .dashboard {
-                padding: 12px;
-            }
-            .kpi-number {
-                font-size: 28px;
-            }
-            .chart-placeholder {
-                height: 180px;
-                overflow-x: auto;
-            }
-            .action-item {
-                flex-wrap: wrap;
-                gap: 10px;
-            }
-            .action-btn {
-                width: 100%;
-                text-align: center;
-            }
-        }
+/* Tablets and small laptops */
+@media (max-width: 1024px) {
+    .kpi-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .main-grid {
+        grid-template-columns: 1fr;
+    }
+    .insights-row {
+        grid-template-columns: 1fr;
+    }
+    .navbar {
+        flex-wrap: wrap;
+        gap: 12px;
+    }
+    .nav-search {
+        width: 100%;
+        order: 3;
+    }
+}
+
+/* Mobile phones */
+@media (max-width: 640px) {
+    body {
+        padding: 8px;
+    }
+    
+    .dashboard {
+        padding: 12px;
+        border-radius: 8px;
+    }
+    
+    .kpi-row {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    
+    .kpi-card {
+        padding: 16px;
+    }
+    
+    .kpi-number {
+        font-size: 28px;
+    }
+    
+    .chart-container {
+        height: 220px !important;
+    }
+    
+    .filters-card {
+        padding: 16px;
+    }
+    
+    .action-item {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    
+    .action-btn {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .insight-card {
+        padding: 16px;
+    }
+    
+    .navbar {
+        padding: 12px 16px;
+    }
+    
+    .logo-text {
+        font-size: 18px;
+    }
+    
+    .logo-icon {
+        width: 50px;
+        height: 50px;
+        font-size: 20px !important;
+    }
+    
+    .nav-profile span {
+        font-size: 12px;
+    }
+}
+
+/* Small phones */
+@media (max-width: 400px) {
+    .kpi-number {
+        font-size: 22px;
+    }
+    
+    .chart-container {
+        height: 180px !important;
+    }
+    
+    .filter-select {
+        padding: 12px 10px;
+        font-size: 13px;
+    }
+}
