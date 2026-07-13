@@ -1,18 +1,268 @@
 {
-    "sector_name": "ICT",
-    "regional_breakdown": [
+    "skills_matrix": [
         {
-            "province": "Zimbabwe (National)",
-            "deficit_skills": [
-                "AWS",
-                "Kubernetes",
-                "Zero Trust Architecture",
-                "PLC Programming",
-                "Telemetry",
-                "SCADA"
-            ],
-            "surplus_skills": [],
-            "visibility_score": 0.15
+            "sector_name": "Agriculture",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Farm Supervision/Management", "mismatch_index": 95, "active_vacancies": 45, "academic_supply": 8 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General Agricultural Graduates", "mismatch_index": 85, "active_vacancies": 4, "academic_supply": 94 }
+                    ],
+                    "visibility_score": 0.6
+                }
+            ]
+        },
+        {
+            "sector_name": "ICT",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Network Engineering (Cisco Meraki)", "mismatch_index": 92, "active_vacancies": 43, "academic_supply": 8 },
+                        { "name": "Digital Transformation Management", "mismatch_index": 90, "active_vacancies": 37, "academic_supply": 5 },
+                        { "name": "Cybersecurity", "mismatch_index": 88, "active_vacancies": 45, "academic_supply": 8 },
+                        { "name": "Data Analytics", "mismatch_index": 86, "active_vacancies": 41, "academic_supply": 8 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General IT Graduates", "mismatch_index": 94, "active_vacancies": 4, "academic_supply": 94 }
+                    ],
+                    "visibility_score": 0.6
+                },
+                {
+                    "province": "Mashonaland Central",
+                    "deficit_skills": [
+                        { "name": "IT Support", "mismatch_index": 92, "active_vacancies": 39, "academic_supply": 7 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                }
+            ]
+        },
+        {
+            "sector_name": "Health Sciences",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Pharmacist", "mismatch_index": 89, "active_vacancies": 35, "academic_supply": 4 },
+                        { "name": "Pharmacy Technician", "mismatch_index": 87, "active_vacancies": 32, "academic_supply": 3 },
+                        { "name": "Nurse Management", "mismatch_index": 85, "active_vacancies": 30, "academic_supply": 6 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.6
+                },
+                {
+                    "province": "Midlands",
+                    "deficit_skills": [
+                        { "name": "Doctor", "mismatch_index": 89, "active_vacancies": 40, "academic_supply": 2 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                },
+                {
+                    "province": "Manicaland",
+                    "deficit_skills": [
+                        { "name": "Nurse In Charge", "mismatch_index": 89, "active_vacancies": 38, "academic_supply": 5 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                }
+            ]
+        },
+        {
+            "sector_name": "Commerce & Finance",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Assistant Accountant", "mismatch_index": 86, "active_vacancies": 28, "academic_supply": 4 },
+                        { "name": "Accounts Clerk", "mismatch_index": 84, "active_vacancies": 25, "academic_supply": 6 },
+                        { "name": "Finance Graduate Trainee", "mismatch_index": 82, "active_vacancies": 22, "academic_supply": 8 },
+                        { "name": "HR & Admin Graduate Intern", "mismatch_index": 80, "active_vacancies": 18, "academic_supply": 5 },
+                        { "name": "Grants & Compliance Officer", "mismatch_index": 87, "active_vacancies": 37, "academic_supply": 7 },
+                        { "name": "Resource Mobilisation", "mismatch_index": 88, "active_vacancies": 41, "academic_supply": 8 },
+                        { "name": "Supply Chain Management", "mismatch_index": 83, "active_vacancies": 29, "academic_supply": 4 },
+                        { "name": "Internal Audit", "mismatch_index": 89, "active_vacancies": 43, "academic_supply": 8 },
+                        { "name": "Procurement & Logistics", "mismatch_index": 81, "active_vacancies": 26, "academic_supply": 5 },
+                        { "name": "Actuarial Services", "mismatch_index": 91, "active_vacancies": 45, "academic_supply": 8 },
+                        { "name": "Business Management (specifics)", "mismatch_index": 79, "active_vacancies": 20, "academic_supply": 3 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General Accounting Graduates", "mismatch_index": 85, "active_vacancies": 3, "academic_supply": 92 },
+                        { "name": "General Finance Graduates", "mismatch_index": 82, "active_vacancies": 2, "academic_supply": 88 },
+                        { "name": "General HR Graduates", "mismatch_index": 80, "active_vacancies": 1, "academic_supply": 75 },
+                        { "name": "General Business Management Graduates", "mismatch_index": 79, "active_vacancies": 4, "academic_supply": 96 },
+                        { "name": "General Marketing Graduates", "mismatch_index": 84, "active_vacancies": 5, "academic_supply": 110 }
+                    ],
+                    "visibility_score": 0.6
+                },
+                {
+                    "province": "Matabeleland North",
+                    "deficit_skills": [
+                        { "name": "Finance Manager", "mismatch_index": 86, "active_vacancies": 31, "academic_supply": 2 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.45
+                },
+                {
+                    "province": "Manicaland",
+                    "deficit_skills": [
+                        { "name": "Loan Officer", "mismatch_index": 86, "active_vacancies": 24, "academic_supply": 3 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                },
+                {
+                    "province": "Bulawayo",
+                    "deficit_skills": [
+                        { "name": "Loan Officer", "mismatch_index": 86, "active_vacancies": 29, "academic_supply": 4 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                },
+                {
+                    "province": "Midlands",
+                    "deficit_skills": [
+                        { "name": "Shop Sales Person (ICT products)", "mismatch_index": 86, "active_vacancies": 45, "academic_supply": 8 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                }
+            ]
+        },
+        {
+            "sector_name": "Engineering & Industrial Technology",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Automotive Mechanic", "mismatch_index": 83, "active_vacancies": 35, "academic_supply": 9 },
+                        { "name": "Power Engineering (Trainee)", "mismatch_index": 81, "active_vacancies": 31, "academic_supply": 6 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General Engineering Graduates", "mismatch_index": 83, "active_vacancies": 8, "academic_supply": 74 }
+                    ],
+                    "visibility_score": 0.6
+                },
+                {
+                    "province": "Mashonaland Central",
+                    "deficit_skills": [
+                        { "name": "Infrastructure Maintenance Supervisor", "mismatch_index": 83, "active_vacancies": 22, "academic_supply": 2 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                }
+            ]
+        },
+        {
+            "sector_name": "Education",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Design and Technology Teaching", "mismatch_index": 80, "active_vacancies": 42, "academic_supply": 12 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General Education Graduates", "mismatch_index": 88, "active_vacancies": 15, "academic_supply": 240 },
+                        { "name": "Early Childhood Development Graduates", "mismatch_index": 82, "active_vacancies": 8, "academic_supply": 130 },
+                        { "name": "Primary Education Graduates", "mismatch_index": 85, "active_vacancies": 11, "academic_supply": 190 }
+                    ],
+                    "visibility_score": 0.6
+                }
+            ]
+        },
+        {
+            "sector_name": "Social Sciences & Community Development",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "CiSS Coordination", "mismatch_index": 89, "active_vacancies": 14, "academic_supply": 1 },
+                        { "name": "Grants Management", "mismatch_index": 87, "active_vacancies": 28, "academic_supply": 3 },
+                        { "name": "Resource Mobilisation (NGO/Development)", "mismatch_index": 91, "active_vacancies": 33, "academic_supply": 2 },
+                        { "name": "Customer Service (Advanced)", "mismatch_index": 78, "active_vacancies": 44, "academic_supply": 15 },
+                        { "name": "Customer Experience Coordination", "mismatch_index": 82, "active_vacancies": 21, "academic_supply": 4 },
+                        { "name": "Work-Integrated Learning Opportunities", "mismatch_index": 85, "active_vacancies": 50, "academic_supply": 18 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General Development Studies Graduates", "mismatch_index": 89, "active_vacancies": 6, "academic_supply": 115 },
+                        { "name": "General Social Work Graduates", "mismatch_index": 84, "active_vacancies": 8, "academic_supply": 92 },
+                        { "name": "General Psychology Graduates", "mismatch_index": 81, "active_vacancies": 3, "academic_supply": 78 },
+                        { "name": "General Sociology Graduates", "mismatch_index": 83, "active_vacancies": 2, "academic_supply": 84 },
+                        { "name": "General Arts & Humanities Graduates", "mismatch_index": 92, "active_vacancies": 4, "academic_supply": 210 }
+                    ],
+                    "visibility_score": 0.6
+                }
+            ]
+        },
+        {
+            "sector_name": "Built Environment & Urban Planning",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Town Planning", "mismatch_index": 84, "active_vacancies": 19, "academic_supply": 3 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.6
+                }
+            ]
+        },
+        {
+            "sector_name": "Mining",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Mining Sector Finance", "mismatch_index": 88, "active_vacancies": 15, "academic_supply": 2 },
+                        { "name": "Mining Sector Economics", "mismatch_index": 86, "active_vacancies": 12, "academic_supply": 1 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.6
+                }
+            ]
+        },
+        {
+            "sector_name": "Retail & Sales",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Sales (Practical)", "mismatch_index": 80, "active_vacancies": 65, "academic_supply": 24 },
+                        { "name": "Retail Operations", "mismatch_index": 78, "active_vacancies": 34, "academic_supply": 11 },
+                        { "name": "Customer Service (Retail)", "mismatch_index": 75, "active_vacancies": 55, "academic_supply": 28 }
+                    ],
+                    "surplus_skills": [
+                        { "name": "General Marketing Graduates", "mismatch_index": 84, "active_vacancies": 5, "academic_supply": 110 }
+                    ],
+                    "visibility_score": 0.6
+                },
+                {
+                    "province": "Bulawayo",
+                    "deficit_skills": [
+                        { "name": "Shop Sales Representative (ICT Products)", "mismatch_index": 86, "active_vacancies": 45, "academic_supply": 8 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.5
+                }
+            ]
+        },
+        {
+            "sector_name": "Manufacturing",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        { "name": "Control Room Operations (Dry Mortar)", "mismatch_index": 91, "active_vacancies": 8, "academic_supply": 0 },
+                        { "name": "Furniture Spray Painting", "mismatch_index": 84, "active_vacancies": 14, "academic_supply": 2 }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.6
+                }
+            ]
         }
     ]
 }
