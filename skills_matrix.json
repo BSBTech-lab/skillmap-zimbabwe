@@ -1,0 +1,343 @@
+{
+    "skills_matrix": [
+        {
+            "sector_name": "ICT",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Cybersecurity & Digital Transformation",
+                            "mismatch_index": 95
+                        },
+                        {
+                            "skill": "Network Engineering (Cisco Meraki)",
+                            "mismatch_index": 92
+                        },
+                        {
+                            "skill": "Data Analytics",
+                            "mismatch_index": 70
+                        },
+                        {
+                            "skill": "Graphic Design",
+                            "mismatch_index": 45
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Computer Science Graduates",
+                        "General Information Technology Graduates"
+                    ],
+                    "visibility_score": 0.7
+                },
+                {
+                    "province": "Bulawayo",
+                    "deficit_skills": [
+                        {
+                            "skill": "ICT Product Sales",
+                            "mismatch_index": 65
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.7
+                },
+                {
+                    "province": "Midlands",
+                    "deficit_skills": [
+                        {
+                            "skill": "ICT Product Sales",
+                            "mismatch_index": 65
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Finance & Accounting",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Actuarial Services",
+                            "mismatch_index": 85
+                        },
+                        {
+                            "skill": "Internal Auditing",
+                            "mismatch_index": 70
+                        },
+                        {
+                            "skill": "Resource Mobilisation",
+                            "mismatch_index": 70
+                        },
+                        {
+                            "skill": "Finance Management",
+                            "mismatch_index": 70
+                        },
+                        {
+                            "skill": "Grants & Compliance Management",
+                            "mismatch_index": 65
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Accounting Graduates",
+                        "General Finance Graduates",
+                        "General Economics Graduates"
+                    ],
+                    "visibility_score": 0.7
+                },
+                {
+                    "province": "Victoria Falls",
+                    "deficit_skills": [
+                        {
+                            "skill": "Finance Management",
+                            "mismatch_index": 70
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.7
+                },
+                {
+                    "province": "Bulawayo",
+                    "deficit_skills": [
+                        {
+                            "skill": "Loan Officer",
+                            "mismatch_index": 55
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Healthcare",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Nurse In Charge",
+                            "mismatch_index": 85
+                        },
+                        {
+                            "skill": "Pharmacist",
+                            "mismatch_index": 80
+                        },
+                        {
+                            "skill": "Pharmacy Technician",
+                            "mismatch_index": 75
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.8
+                },
+                {
+                    "province": "Kwekwe",
+                    "deficit_skills": [
+                        {
+                            "skill": "Doctor",
+                            "mismatch_index": 95
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.8
+                }
+            ]
+        },
+        {
+            "sector_name": "Education",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Design and Technology Teacher",
+                            "mismatch_index": 60
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Education Graduates (PGDipEd, ECD, Primary/Secondary)"
+                    ],
+                    "visibility_score": 0.8
+                }
+            ]
+        },
+        {
+            "sector_name": "Agriculture",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Farm Supervisor",
+                            "mismatch_index": 50
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Urban Planning & Development",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Town Planner",
+                            "mismatch_index": 75
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Development Studies Graduates"
+                    ],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Sales & Customer Service",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Customer Service Representative",
+                            "mismatch_index": 60
+                        },
+                        {
+                            "skill": "Sales & Marketing Executive",
+                            "mismatch_index": 60
+                        },
+                        {
+                            "skill": "Customer Experience Coordinator",
+                            "mismatch_index": 55
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Marketing Graduates"
+                    ],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Logistics & Supply Chain",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Supply Chain Officer",
+                            "mismatch_index": 65
+                        },
+                        {
+                            "skill": "Procurement Specialist",
+                            "mismatch_index": 60
+                        },
+                        {
+                            "skill": "Stores and Creditors Management",
+                            "mismatch_index": 40
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Purchasing & Supply Graduates"
+                    ],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Manufacturing & Trades",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Power Engineering (Post-Graduate Traineeship)",
+                            "mismatch_index": 70
+                        },
+                        {
+                            "skill": "Control Room Operator (Dry Mortar)",
+                            "mismatch_index": 60
+                        },
+                        {
+                            "skill": "Mechanic",
+                            "mismatch_index": 50
+                        },
+                        {
+                            "skill": "Furniture Spray Painter",
+                            "mismatch_index": 50
+                        }
+                    ],
+                    "surplus_skills": [],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "General Administration & Operations",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Group Operations Officer (Back Office)",
+                            "mismatch_index": 60
+                        },
+                        {
+                            "skill": "HR & Administration Graduate Intern",
+                            "mismatch_index": 45
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Human Resources Management Graduates",
+                        "General Business Management Graduates"
+                    ],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "Social Services",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "CiSS Coordinator",
+                            "mismatch_index": 55
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Social Sciences Graduates",
+                        "General Psychology/Sociology Graduates",
+                        "Peace & Governance Graduates"
+                    ],
+                    "visibility_score": 0.7
+                }
+            ]
+        },
+        {
+            "sector_name": "General Internships/Entry-Level",
+            "regional_breakdown": [
+                {
+                    "province": "Harare",
+                    "deficit_skills": [
+                        {
+                            "skill": "Student Attachment Opportunities (Specialized Fields)",
+                            "mismatch_index": 40
+                        }
+                    ],
+                    "surplus_skills": [
+                        "General Graduate Trainees"
+                    ],
+                    "visibility_score": 0.6
+                }
+            ]
+        }
+    ]
+}

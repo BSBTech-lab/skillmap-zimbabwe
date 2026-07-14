@@ -1,0 +1,474 @@
+
+--- Report Page 1 ---
+ 
+ 
+2025 SECOND QUARTER 
+LABOUR FORCE SURVEY 
+REPORT 
+   .. 
+JULY 2025 
+
+
+--- Report Page 2 ---
+ii 
+ 
+The 2025 Second Quarter Labour Force Survey report was produced by the Zimbabwe National 
+Statistics Agency (ZIMSTAT).  Additional information about the report may be obtained from: 
+ZIMSTAT:   
+E-mail: pr@zimstat.co.zw;  
+Website: http://www.zimstat.co.zw; 
+Twitter: @zimstat 
+Telephone: +263 242706681/8  
+ 
+Recommended citation:  
+Zimbabwe National Statistics Agency, 2025 Second Quarter Labour Force Survey Report. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Report Page 3 ---
+iii 
+ 
+ 
+Table of Contents 
+1.0 Introduction .......................................................................................................................... 1 
+2.0 Survey Objectives ................................................................................................................ 1 
+3.0 Survey Methodology ............................................................................................................ 1 
+5.0 Definitions of Key Labour Market Indicators ..................................................................... 1 
+6.0 Summary of 2025 Second Quarter, QLFS Findings ............................................................ 4 
+ 
+List of Tables 
+Table 1: Key findings...................................................................................................................... 4 
+ 
+List of Figures  
+Figure 1: Labour Force Participation Rates by Province and Sex, 2nd Quarter 2025 ..................... 5 
+Figure 2: Labour Force Participation Rates by Urban/Rural Areas and Sex, 2nd Quarter 2025 ..... 5 
+Figure 3: Labour Force Participation Rates by Age Group and Sex, 2nd Quarter 2025 .................. 5 
+Figure 4: Employment to Population Ratio by Province and Sex, 2rd Quarter 2025 ...................... 6 
+Figure 5: Employment to Population Ratio by Age Group and Sex, 2nd Quarter 2025 .................. 6 
+Figure 6: Employment to Population Ratio by Urban/Rural Areas and Sex, 2nd Quarter 2025 ..... 6 
+Figure 7a: Distribution of Employed Population by Major Sector of Employment and Sex, 2nd 
+Quarter 2025 ................................................................................................................................... 6 
+Figure 8: Distribution of Employed Population by Province and Sex, 2nd Quarter 2025 ............... 7 
+Figure 9: Distribution of Employed Population by Major Contributing Industries to Employment, 
+2nd Quarter 2025 .............................................................................................................................. 8 
+Figure 10: Distribution of Employed Population by Occupation and Sex, 2nd Quarter 2025 ........ 8 
+Figure 11: Distribution of Employed Population in Informal Sector by Industry and Sex, 2nd 
+Quarter 2025 ................................................................................................................................... 9 
+Figure 12: Distribution of Informally Employed Persons by Industry and Sex, 2nd Quarter 2025 9 
+Figure 13: Informally Employed Persons in Non-Agriculture Sectors by Industry and Sex, 2nd 
+Quarter 2025 ................................................................................................................................. 10 
+Figure 14: Distribution of Employed Persons with at Least One Form of Disability by Sex, 2nd 
+Quarter 2025 ................................................................................................................................. 10 
+Figure 15: Employed Population in Time-related Underemployment by Industry, 2nd Quarter 
+2025............................................................................................................................................... 11 
+Figure 16: Distribution of Employed Persons by Income Band (in ZiG) and Sex, 2nd Quarter 
+2025............................................................................................................................................... 11 
+Figure 17: Average Income for Employed Persons by Industry, 2nd Quarter 2025 ...................... 12 
+Figure 18: Distribution of Employed Population by Hours of Work and Sex, 2nd Quarter 2025 . 12 
+Figure 19: Unemployment Rates by Province and Sex, 2nd Quarter 2025 ................................... 13 
+Figure 20: Unemployment Rates by Urban/Rural Area and Sex, 2nd Quarter 2025 ..................... 13 
+Figure 21: Unemployment Rates by Age Group and Sex, 2nd Quarter 2025 ................................ 13 
+
+
+--- Report Page 4 ---
+iv 
+ 
+Figure 22: Unemployment Rates by Highest Level of Education Completed and Sex, 2nd Quarter 
+2025............................................................................................................................................... 14 
+Figure 23: Unemployment Rate for Persons with Functional Disability by Sex, 2nd Quarter 2025
+....................................................................................................................................................... 14 
+Figure 24: Expanded Unemployment Rate by Province and Sex, 2nd Quarter 2025 .................... 15 
+Figure 25: Distribution of Discouraged Job Seekers by Age Group and Sex, 2nd Quarter 2025 .. 15 
+Figure 26: Proportion of Youth (15-24 Years) Not in Education, Employment or Training by 
+Province and Sex, 2nd Quarter 2025 .............................................................................................. 16 
+Figure 27: Proportion of Youth (15-35 Years) Not in Education, Employment or Training by 
+Province and Sex, 2nd Quarter 2025 .............................................................................................. 16 
+Figure 28: Distribution of Employed Persons Who Reported Work Related Illnesses/Injuries by 
+Industry, 2nd Quarter 2025 ............................................................................................................ 17 
+Figure 29: Distribution of Persons who lost Jobs 3 Months Preceding the Survey by Industry, 2nd 
+Quarter 2025 ................................................................................................................................. 17 
+Figure 30: Distribution of Labour Migrants in Zimbabwe by Country of Origin, 2nd Quarter 2025
+....................................................................................................................................................... 18 
+ 
+ 
+
+
+--- Report Page 5 ---
+ 
+ 
+1 
+ 
+1.0 Introduction 
+Quarterly Labour Force Survey (QLFS) is a household-based survey conducted in both rural 
+and urban areas across all provinces in Zimbabwe. The Survey is conducted in line with 
+recommendations and guidelines of the 21st International Conference of Labour Statisticians 
+(ICLS). 
+2.0 Survey Objectives  
+The Quarterly Labour Force Survey aims to establish the following:  
+a) Employment level 
+b) Employment status of the labour force  
+c) Employment in the informal economy 
+d) Income levels 
+e) Labour underutilisation 
+f) Labour migration 
+3.0 Survey Methodology 
+The sample was stratified using province and rural/urban domains. Selection was done in two 
+stages. The first stage entailed selection of enumeration areas using the probability proportional 
+to size method. The second stage entailed selection of households in selected enumeration areas 
+using the systematic random sampling technique. A total of 9,650 households were selected 
+from 386 enumeration areas in all provinces. The survey response rate was 96.3 percent. 
+4.0 Weighting 
+Weighting of survey data was done as follows: 
+a) 
+First stage selection probabilities were combined with second stage probabilities and 
+adjusted for non-response 
+b) 
+The inverse of the combined probabilities adjusted for non-response was used as the 
+base weight for sample households. 
+5.0 Definitions of Key Labour Market Indicators  
+a. Working Age Population refers to persons aged 16 and above 
+ 
+b. 𝐿𝑎𝑏𝑜𝑢𝑟 𝐹𝑜𝑟𝑐𝑒 = 𝐸𝑚𝑝𝑙𝑜𝑦𝑒𝑑 𝑃𝑒𝑟𝑠𝑜𝑛𝑠 + 𝑈𝑛𝑒𝑚𝑝𝑙𝑜𝑦𝑒𝑑 𝑃𝑒𝑟𝑠𝑜𝑛𝑠 
+ 
+c. Labour Force Participation Rate (LFPR) = 
+𝐿𝑎𝑏𝑜𝑢𝑟 𝐹𝑜𝑟𝑐𝑒
+𝑊𝑜𝑟𝑘𝑖𝑛𝑔 𝐴𝑔𝑒 𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛× 100 
+
+
+--- Report Page 6 ---
+ 
+ 
+2 
+ 
+ 
+d. 
+Employment-to-Population Ratio (EPR) = 
+ 
+ 
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑒𝑚𝑝𝑙𝑜𝑦𝑒𝑑 𝑝𝑒𝑟𝑠𝑜𝑛𝑠 𝑖𝑛 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑎𝑔𝑒 𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛
+𝑊𝑜𝑟𝑘𝑖𝑛𝑔 𝑎𝑔𝑒 𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛
+× 100 
+ 
+Note: In calculating LPFR and EPR for various categories, numerators and 
+denominators will be with respect to the referenced categories. 
+ 
+e. 
+Unemployment Rate= 
+ 
+ 
+ 𝑇𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑢𝑛𝑒𝑚𝑝𝑙𝑜𝑦𝑒𝑑 𝑝𝑒𝑟𝑠𝑜𝑛𝑠  
+𝐿𝑎𝑏𝑜𝑢𝑟 𝐹𝑜𝑟𝑐𝑒
+× 100 
+ 
+f. 
+Youth Not in Employment, Education or Training (NEET)= 
+ 𝑁𝑦−(𝑁𝑦𝑒+ 𝑁𝑦𝑡)
+𝑁𝑦
+× 100 
+Where: Ny is   Total Number of youth 
+            Nye is Number of youth in employment  
+ 
+            Nyt is Number of youth not in employment but in education or training) 
+ 
+             Note:  Africa Union definition of youth is 15-35 years  
+United Nations definition of youth is 15-24 years  
+ 
+g. 
+Expanded unemployment rate= 
+ 
+(𝑇𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑢𝑛𝑒𝑚𝑝𝑙𝑜𝑦𝑒𝑑 𝑝𝑒𝑟𝑠𝑜𝑛𝑠+ 𝑃𝐿𝐹)
+(𝐿𝑎𝑏𝑜𝑢𝑟 𝐹𝑜𝑟𝑐𝑒+ 𝑃𝐿𝐹)
+× 100 
+ 
+             Where PLF is Potential Labour Force 
+h. 
+Employment by Industry 
+The indicator disaggregates employed persons into 21 sections of the International 
+Standard Industrial Classification of all Economic Activities (ISIC) Revision 4 and 
+expresses each sector as a percentage of total employment. 
+ 
+i. 
+Employment by occupation 
+The indicator disaggregates employed persons into 10 major groups of the International 
+Standard Classification of Occupations 2008 (ISCO-08) and expresses each group as a 
+percentage of total employment. 
+ 
+ 
+ 
+j. 
+Employment in informal economy 
+
+
+--- Report Page 7 ---
+ 
+ 
+3 
+ 
+Employment in informal economy covers two concepts namely employment in informal sector 
+and informal employment.  
+i) 
+Employment in informal sector is determined by the characteristics of an 
+enterprise in which a person is employed. For the purposes of the QLFS, an economic 
+unit is considered to be in informal sector if it is not registered with the Registrar of 
+Companies. 
+ii) 
+Informal employment  
+Informal employment is determined by characteristics of the job a person holds and 
+includes the following: 
+1. 
+own account workers and employers who work in their own informal sector 
+enterprises 
+2. 
+unpaid contributing family workers irrespective of whether they work in formal 
+or informal sector enterprises and  
+3. 
+paid employees not entitled to any of the following: contribution to pension fund 
+by employer, paid annual leave, paid sick leave and written contract with employer. 
+k. Employment in informal economy 
+Employment in informal economy covers two concepts namely; 
+i. 
+employment in informal sector, 
+ii. 
+informal employment.  
+ 
+Employment in informal sector is determined by the characteristics of an enterprise in 
+which a person is employed. An economic unit is considered to be in informal sector if 
+it is not registered with the Registrar of Companies.  
+ 
+Informal employment is determined by characteristics of the job a person holds. 
+Informal employment includes the following jobs: 
+i. 
+own account workers and employers who work in their own informal sector 
+enterprises, 
+ii. 
+unpaid contributing family workers irrespective of whether they work in formal 
+or informal sector enterprises and  
+iii. 
+paid employees not entitled to any of the following: contribution to pension 
+fund by employer, paid annual leave, paid sick leave and written contract with 
+employer.  
+ 
+l.         Time-Related Underemployment  
+Refers to all persons in employment who wanted to work additional hours, whose 
+working time in all jobs was less than 40 hours per week, and who were available to 
+work additional hours given an opportunity for more work. 
+ 
+
+
+--- Report Page 8 ---
+ 
+ 
+4 
+ 
+6.0 Summary of 2025 Second Quarter, QLFS Findings  
+ 
+Table 1: Key findings 
+ 2nd Quarter 2025 
+Indicator 
+Number 
+Percent 
+Labour Force  
+Working Age Population (16 years and above) 
+8,539,402 
+ 
+Labour Force (16 years and above) 
+4,020,125 
+ 
+Labour Force Participation Rate (LFPR) 
+ 
+47.1 
+Total Employed 
+3,186,598 
+ 
+Employment to Population Ratio (EPR) 
+ 
+37.3 
+Sector of Employment 
+ 
+ 
+Formal  
+1,140,886 
+35.8 
+Informal  
+1,863,695 
+58.5 
+Household Own Use Production and Community Sector 
+182,017 
+5.7 
+Unemployment  
+ 
+ 
+National (16 years and above) 
+833,527 
+20.7 
+Youth (15-24 years)  
+313,106 
+39.3 
+Youth (15-35 years)  
+563,422 
+28.9 
+Expanded/Relaxed Unemployment  
+ 
+ 
+National (16 years and above) 
+ 
+37.1 
+Youth (15-24 years) 
+ 
+58.2 
+Youth (15-35 years) 
+ 
+46.1 
+Youth Not in Employment, Education or Training (NEET)  
+ 
+Youth (15-24 years) NEET 
+1,267,065 
+47.6 
+Youth (15-35 years) NEET 
+2,244,389 
+49.2 
+ 
+ 
+ 
+ 
+
+
+--- Report Page 9 ---
+ 
+ 
+5 
+ 
+Figure 1: Labour Force Participation Rates by Province and Sex, 2nd Quarter 2025   
+ 
+ 
+Figure 2: Labour Force Participation Rates by Urban/Rural Areas and Sex, 2nd Quarter 2025 
+ 
+ 
+Figure 3: Labour Force Participation Rates by Age Group and Sex, 2nd Quarter 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Report Page 13 ---
+ 
+ 
+9 
+ 
+Figure 11: Distribution of Employed Population in Informal Sector by Industry and Sex, 2nd Quarter 2025  
+ 
+   Number:                                                                       1,077,470                         786,225 
+                 1,863,695 
+ 
+ 
+Figure 12: Distribution of Informally Employed Persons by Industry and Sex, 2nd Quarter 2025  
+   Number:                                                                       1,161,005                           908,896 
+                   2,069,901 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Report Page 17 ---
+ 
+ 
+13 
+ 
+Figure 19: Unemployment Rates by Province and Sex, 2nd Quarter 2025   
+ 
+ 
+Figure 20: Unemployment Rates by Urban/Rural Area and Sex, 2nd Quarter 2025 
+ 
+ 
+Figure 21: Unemployment Rates by Age Group and Sex, 2nd Quarter 2025  
+ 
+ 
+ 
+ 
+ 
+
+
+--- Report Page 18 ---
+ 
+ 
+14 
+ 
+Figure 22: Unemployment Rates by Highest Level of Education Completed and Sex, 2nd Quarter 2025  
+ 
+   Number:                                                                         450,744                            382,783 
+                     833,527 
+ 
+ 
+Figure 23: Unemployment Rate for Persons with Functional Disability by Sex, 2nd Quarter 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Report Page 19 ---
+ 
+ 
+15 
+ 
+Figure 24: Expanded Unemployment Rate by Province and Sex, 2nd Quarter 2025  
+ 
+ 
+Figure 25: Distribution of Discouraged Job Seekers by Age Group and Sex, 2nd Quarter 2025   
+   Number:     336,501                                                   284,077                                                     620,578 
+
+
+--- Report Page 20 ---
+ 
+ 
+16 
+ 
+Figure 26: Proportion of Youth (15-24 Years) Not in Education, Employment or Training by Province and 
+Sex, 2nd Quarter 2025   
+ 
+ 
+Figure 27: Proportion of Youth (15-35 Years) Not in Education, Employment or Training by Province and 
+Sex, 2nd Quarter 2025   
+ 
